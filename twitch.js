@@ -1,4 +1,4 @@
-simply.title('Hello World!');
+simply.title('Hello World2');
 ajax({
  type: 'GET',
  url: 'https://api.twitch.tv/kraken/channels/twitch',
