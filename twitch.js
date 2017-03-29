@@ -6,7 +6,7 @@ ajax({
    'Client-ID': '9vd07462fvgwhjxb4767tv020zrriv'
  },
 }, function(data) {
-   simply.body(data.stream.preview.medium);
+   simply.body(data.stream);
 }, function(data) {
    simply.body(data.stream.preview.medium);
 });
